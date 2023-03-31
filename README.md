@@ -21,15 +21,15 @@ Este é um código simples em JavaScript que recebe uma lista de propriedades CS
 ## Exemplo de propriedades CSS
 Você pode testar o código com as seguintes propriedades CSS:
 
-background-color
-color
-font-family
-font-size
-text-align
-padding
-margin
-border
-border-radius
-display
-position
+- background-color
+- color
+- font-family
+- font-size
+- text-align
+- padding
+- margin
+- border
+- border-radius
+- display
+- position
 

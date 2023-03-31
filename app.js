@@ -1,4 +1,4 @@
-const readline = require('readline');
+import readline from 'readline'
 
 const properties = {}; // objeto que armazenará as propriedades e seus valores
 
